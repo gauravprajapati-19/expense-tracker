@@ -1,0 +1,28 @@
+.bar {
+  height: 90%;
+  width: 40px;
+}
+
+.bar-inner {
+  border: 2px solid;
+  border-radius: 100px;
+  background-color: white;
+  height: 150px;
+  width: 20px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+  transition: all 0.5s ease-out;
+}
+
+.bar-fill {
+  border-radius: 100px;
+  background-color: darkblue;
+  width: 100%;
+}
+
+.bar-label {
+  height: 20px;
+  width: 30px;
+  margin: 10px auto 0 auto;
+}

@@ -1,0 +1,10 @@
+.chart-bar {
+    height: 200px;
+    background-color: grey;
+    width: 960px;
+    border: 3px solid #464646;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
